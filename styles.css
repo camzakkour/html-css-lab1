@@ -1,0 +1,28 @@
+* {
+    font-family:monospace;
+}
+
+h1 {
+    background-color: #e2220d;
+    color: white;
+}
+
+h2 {
+    background-color: #3b3361;
+    color: white;
+}
+
+div {
+    height: 500px;
+    width: 300px;
+    background-image: url('https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg');
+    background-size: cover;
+    background-position: center;
+    border: #936E7C 5px solid;
+    margin: 10px;
+    box-shadow: 5px 5px 5px black ;
+}
+
+iframe {
+    border:#5C2634 5px solid;
+}
